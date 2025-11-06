@@ -20,3 +20,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
+---
+
+### 📈 Estatísticas do GitHub
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusvarone&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvarone&layout=compact&theme=tokyonight"/>
+</p>
